@@ -32,7 +32,7 @@ color_emoji_json = """{
     "DOWN": { "color": "danger", "emoji": ":fire:" },
     "UP": { "color": "good", "emoji": ":ok:" },
     "_comment": "when we can not find a matching style",
-    "praseerror": { "color": "#aaaaaa", "emoji": ":octocat:" }
+    "parseerror": { "color": "#aaaaaa", "emoji": ":octocat:" }
 }"""
 
 def event_style():
